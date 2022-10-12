@@ -20,6 +20,7 @@
    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 
   </div>
-<img src=[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dowoo99)](https://github.com/dowoo99)>
+<div>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dowoo99)](https://github.com/anuraghazra/github-readme-stats)</div>
+
 
 
