@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> 
   <br/>
 </div>
-
+<br/>
 <div  align= "center">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dowoo99&hide_title=false&show_icons=true&include_all_commits=false&theme=nord" />
