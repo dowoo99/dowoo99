@@ -13,13 +13,6 @@
   <br/>
 </div>
 
-* studying..
-
-<div align= "center">
- <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
-   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-  </div>
-  <br/>
 <div  align= "center">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dowoo99&hide_title=false&show_icons=true&include_all_commits=false&theme=nord" />
