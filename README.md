@@ -18,4 +18,5 @@
 * <div align= "center>
  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
   <img src="https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=NEXT&logoColor=black"> 
+  
   </div>
