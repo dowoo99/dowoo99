@@ -20,5 +20,6 @@
    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 
   </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=dowoo99)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dowoo99)](https://github.com/dowoo99/github-readme-stats)
+
 
