@@ -19,7 +19,7 @@
  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   </div>
-[![Anurag's GitHub stats](https://github/username=dowoo99)]
+![Anurag's GitHub stats](https://github/username=dowoo99)]
 
 
 
