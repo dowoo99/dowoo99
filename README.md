@@ -16,6 +16,6 @@
 
 # 공부중..
 <div align= "center">
- <img src="https://img.shields.io/badge/typescript-#3178C6?style=flat-square&logo=typescript&logoColor=black">
+ <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=black">
 
   </div>
